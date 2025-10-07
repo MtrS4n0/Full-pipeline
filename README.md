@@ -4,8 +4,10 @@
 
 ### This pipeline sends data from DHT22 sensor to Thingspeak,<br />
 ### where it is collected to node server local host.<br />
-### Dashboard is index.html and by a webhook draws a linechart<br />
+### Dashboard is index.html and draws a linechart<br />
 ### of the data.<br />
+### Everytime temperature exceeds 30 °C or is below -10 °C<br />
+### a message is sent to a Discord server.<br/>
 
 This project uses an .env file for the API keys -> "npm install dotenv"<br />
 Create .env file to root directory. -> See example @ .env.example.<br />
