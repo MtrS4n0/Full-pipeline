@@ -8,7 +8,7 @@
 ### of the data.<br />
 
 This project uses an .env file for the API keys -> "npm install dotenv"<br />
-Create .env file to root directory. See example @ .env.example.<br />
+Create .env file to root directory. -> See example @ .env.example.<br />
 Add .env to gitignore -> "# .gitignore (br) .env"<br />
 Create a new folder "public" and add index.html there.<br />
 Run node server and index.html<br />
