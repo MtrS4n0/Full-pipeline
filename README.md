@@ -15,6 +15,7 @@ Add .env to gitignore -> "# .gitignore (br) .env"<br />
 Create a new folder "public" and add index.html there.<br />
 Run node server and index.html<br />
 
+[Wokwi code](https://github.com/MtrS4n0/Full-pipeline/blob/53a6cb34e2a0b29f7cff18833509aa96a86dbf71/wokwi.py)<br/>
 [Server.js](https://github.com/MtrS4n0/Full-pipeline/blob/58a7717cc83bc9ff0e078e4b27ff227e3b854656/server.js)<br/>
 [Fetch_temperature.js](https://github.com/MtrS4n0/Full-pipeline/blob/58a7717cc83bc9ff0e078e4b27ff227e3b854656/fetch_temperatures.js)<br/>
 [Index.html](https://github.com/MtrS4n0/Full-pipeline/blob/58a7717cc83bc9ff0e078e4b27ff227e3b854656/index.html)<br/>
